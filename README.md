@@ -1,4 +1,4 @@
-# Mobile-Carrier-Prediction-By-Using-Machine-Learning
+# Machine Learning Mobile-Carrier
 
 ## Introduction
 In this endeavour, we embark on a mission to assist Mobile carrier Megaline in optimizing their customer plans. Faced with the challenge of numerous customers still using legacy plans, our goal is to develop an advanced model that leverages behavior data. This model will not only analyze customer behavior but also recommend the ideal plan from Megaline's newer offerings: Smart or Ultra.
